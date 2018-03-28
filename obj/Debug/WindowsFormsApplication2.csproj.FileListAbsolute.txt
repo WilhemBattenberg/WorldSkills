@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginForm.resources
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Customer.resources
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Storekeeper.resources
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Manager.resources
+C:\Users\user\Desktop\WSR2017_TP09_RU\Сессия 1\data\Программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Registration.resources
